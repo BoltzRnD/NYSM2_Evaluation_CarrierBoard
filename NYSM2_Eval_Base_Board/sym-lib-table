@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NYSM2_Stepper_Socket")(type "KiCad")(uri "C:/Users/yatin/OneDrive/Documents/GitHub/NYSM.2_eval_base_board/Libraries/NYSM2_Stepper_Socket/NYSM2_Stepper_Socket.kicad_sym")(options "")(descr ""))
+  (lib (name "motordrivermodule")(type "KiCad")(uri "C:/Users/yatin/OneDrive/Documents/GitHub/NYSM.2_eval_base_board/Libraries/MotorDriverModule/motordrivermodule.kicad_sym")(options "")(descr ""))
+)

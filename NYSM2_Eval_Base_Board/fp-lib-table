@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "motordrivermodule")(type "KiCad")(uri "C:/Users/yatin/OneDrive/Documents/GitHub/NYSM.2_eval_base_board/Libraries/MotorDriverModule/motordrivermodule.pretty")(options "")(descr ""))
+  (lib (name "MDT275B03001")(type "KiCad")(uri "C:/Users/yatin/OneDrive/Documents/GitHub/NYSM.2_eval_base_board/Libraries/MDT275B03001/MDT275B03001.pretty")(options "")(descr ""))
+  (lib (name "connectorslibrary")(type "KiCad")(uri "C:/Users/yatin/OneDrive/Documents/GitHub/NYSM.2_eval_base_board/Libraries/connectorslibrary.pretty")(options "")(descr ""))
+)
